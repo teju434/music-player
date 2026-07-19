@@ -1,0 +1,8 @@
+{
+  "name": "tara-play-studio",
+  "version": "1.0.0",
+  "description": "TARA Play Studio - Premium Neumorphic Music Player",
+  "scripts": {
+    "start": "npx http-server src -p 3000"
+  }
+}
